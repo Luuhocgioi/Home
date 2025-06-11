@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/icon-text-section",
+    "title": "Icon & Text Section",
+    "description": "A section displaying icons with text descriptions.",
+    "category": "common",
+    "icon": "star-filled",
+    "keywords": ["icon", "text", "features"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "icon-text-section.php"
+    },
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+} 

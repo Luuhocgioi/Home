@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/contact-section",
+    "title": "Contact Section",
+    "description": "A section for contact information with a call to action.",
+    "category": "common",
+    "icon": "phone",
+    "keywords": ["contact", "cta", "get in touch"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "contact-section.php"
+    },
+    "supports": {
+        "align": ["full"],
+        "mode": false,
+        "jsx": true
+    }
+} 

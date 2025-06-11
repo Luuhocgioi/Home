@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/technology-description",
+    "title": "Technology Description",
+    "description": "A section describing technology with an image, title, description, and button.",
+    "category": "common",
+    "icon": "laptop",
+    "keywords": ["technology", "description", "simoa"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "technology-description.php"
+    },
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+} 

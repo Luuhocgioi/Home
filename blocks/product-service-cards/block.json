@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/product-service-cards",
+    "title": "Product/Service Cards",
+    "description": "A section displaying multiple product or service cards.",
+    "category": "common",
+    "icon": "grid-view",
+    "keywords": ["product", "service", "cards", "grid"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "product-service-cards.php"
+    },
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+} 

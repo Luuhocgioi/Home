@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/blue-banner-cta",
+    "title": "Blue Banner CTA",
+    "description": "A full-width blue banner with a call to action message.",
+    "category": "common",
+    "icon": "megaphone",
+    "keywords": ["banner", "cta", "call to action", "blue"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "blue-banner-cta.php"
+    },
+    "supports": {
+        "align": ["full"],
+        "mode": false,
+        "jsx": true
+    }
+} 

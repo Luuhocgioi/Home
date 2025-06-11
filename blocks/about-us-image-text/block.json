@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/about-us-image-text",
+    "title": "About Us/Image with Text",
+    "description": "A section featuring an image with descriptive text and a call to action button.",
+    "category": "common",
+    "icon": "align-pull-right",
+    "keywords": ["about", "image", "text", "info"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "about-us-image-text.php"
+    },
+    "supports": {
+        "align": false,
+        "mode": false,
+        "jsx": true
+    }
+} 

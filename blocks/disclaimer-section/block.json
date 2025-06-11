@@ -1,0 +1,17 @@
+{
+    "name": "my-custom-theme/disclaimer-section",
+    "title": "Disclaimer Section",
+    "description": "A section for displaying disclaimer text.",
+    "category": "common",
+    "icon": "info",
+    "keywords": ["disclaimer", "text", "legal"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "disclaimer-section.php"
+    },
+    "supports": {
+        "align": ["full"],
+        "mode": false,
+        "jsx": true
+    }
+} 
